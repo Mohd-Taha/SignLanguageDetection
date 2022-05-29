@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>WhatsApp Image 2022-05-10 at 9.58.50 AM.jpeg</filename>
+	<path>D:\Uni Kaam\4th Year\DL\SignLanguageDetection\RealTimeObjectDetection\Tensorflow\workspace\images\DataSet\WhatsApp Image 2022-05-10 at 9.58.50 AM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Awesome</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>272</ymin>
+			<xmax>729</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+</annotation>

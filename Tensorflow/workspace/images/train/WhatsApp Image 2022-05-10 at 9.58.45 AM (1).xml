@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>WhatsApp Image 2022-05-10 at 9.58.45 AM (1).jpeg</filename>
+	<path>D:\Uni Kaam\4th Year\DL\SignLanguageDetection\RealTimeObjectDetection\Tensorflow\workspace\images\DataSet\WhatsApp Image 2022-05-10 at 9.58.45 AM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BroCode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>586</ymin>
+			<xmax>766</xmax>
+			<ymax>1012</ymax>
+		</bndbox>
+	</object>
+</annotation>
