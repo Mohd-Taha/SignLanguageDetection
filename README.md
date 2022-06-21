@@ -1,4 +1,5 @@
-Sign Language Detection: Language barriers are very much still a real thing.
+# Sign Language Detection
+Language barriers are very much still a real thing.
 
 We can take baby steps to help close that.
 Speech to text and translators have made it a heap easier.
