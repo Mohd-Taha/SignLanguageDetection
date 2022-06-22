@@ -7,7 +7,7 @@ But what about for those that maybe don't speak or can't hear?
 
 What about them? 
 
-Well...you can begin to use Tensorflow Object Detection and Python to help close that gap. And in this video, you'll learn how to take the first steps to doing just that! In this video, you'll learn how to build an end-to-end custom object detection model that allows you to translate sign language in real time. 
+Well...you can begin to use Tensorflow Object Detection and Python to help close that gap. I'd worked to build an end-to-end custom object detection model that allows you to translate sign language in real time.
 
 In this Project I'd done the following steps:
 1. Collect images for deep learning using your webcam and OpenCV
