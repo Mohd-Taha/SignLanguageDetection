@@ -17,4 +17,5 @@ In this Project I'd done the following steps:
 5. Detect sign language in real time using OpenCV
 
 LabelImg: https://github.com/tzutalin/labelImg
+
 Installing the Tensorflow Object Detection API: https://tensorflow-object-detection-a...
