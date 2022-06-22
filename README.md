@@ -18,4 +18,4 @@ In this Project I'd done the following steps:
 
 LabelImg: https://github.com/tzutalin/labelImg
 
-Installing the Tensorflow Object Detection API: https://tensorflow-object-detection-a...
+Installing the Tensorflow Object Detection API: https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
